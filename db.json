@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "bagde": "- 50%",
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-01.jpg",
+      "name": "Stylish Women Bag",
+      "offer": 85,
+      "offerDis": "£150.00"
+    },
+    {
+      "bagde": "- 20%",
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-02.jpg",
+      "name": "Stylish Watch For Man",
+      "offer": 25,
+      "offerDis": 150
+    },
+    {
+      "bagde": "- 55%",
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-03.jpg",
+      "name": "Polo T-shirt For Man",
+      "offer": 95,
+      "offerDis": 150
+    },
+    {
+      "bagde": "- 20%",
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-04.jpg",
+      "name": "Luxury Wallet For Male",
+      "offer": 70,
+      "offerDis": 150
+    },
+    {
+      "bagde": "- 20%",
+      "img": "https://images.unsplash.com/photo-1514989940723-e8e51635b782?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fHNob2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "name": "Stylish Shoes For Male",
+      "offer": 80,
+      "offerDis": 150
+    }
+  ],
+  "favourite": [
+    {
+      "bagde": "- 55%",
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-03.jpg",
+      "name": "Polo T-shirt For Man",
+      "offer": 95,
+      "offerDis": 150,
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "bagde": "- 20%",
+      "img": "https://images.unsplash.com/photo-1514989940723-e8e51635b782?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fHNob2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "name": "Stylish Shoes For Male",
+      "offer": 80,
+      "offerDis": 150,
+      "id": 11
+    }
+  ]
+}
