@@ -12,7 +12,7 @@ server.use(jsonServer.bodyParser);
 server.use(middlewares);
 server.use(router);
 const app = express();
-app.use(express.static("publish"));
+app.use(express.static("public"));
 
 const PORT = 5000;
 
